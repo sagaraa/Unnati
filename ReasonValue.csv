@@ -1,0 +1,25 @@
+"","Not_Enrolled","Enrolled_Interested","ReasonValue"
+"Original doc submitted",18,31,0.63265306122449
+"Center Visit Done",50,61,0.54954954954955
+"Awaiting Documents",83,100,0.546448087431694
+"House Call Done",118,120,0.504201680672269
+"Bio ID",8,8,0.5
+"Will Enroll",40,34,0.459459459459459
+"Not Known",3056,314,0.0931750741839763
+"Dont want to give original documents",91,1,0.0108695652173913
+"Call Back Later",990,0,0
+"Centre Visit Scheduled",156,0,0
+"Family issue",1071,0,0
+"Fees issues",137,0,0
+"Home Visit Scheduled",44,0,0
+"Invalid Number",1008,0,0
+"Next Batch",519,0,0
+"Number Busy",253,0,0
+"Out of Coverage",144,0,0
+"Over qualified for the course ",108,0,0
+"Phone not reachable",177,0,0
+"Program not suitable",433,0,0
+"Pursuing Other Course",343,0,0
+"Timing issue",440,0,0
+"Want job in the same city ",176,0,0
+"Want more salary ",165,0,0
